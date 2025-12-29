@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+void numbers(int i , int n)
+{
+    if(i > n)
+    return;
+    
+    cout << i << " ";
+    
+    numbers(i+1 , n);
+}
+
+int main() {
+    
+    int n;
+
+    cin >> n;
+    
+    numbers(1,n);
+
+    return 0;
+}
