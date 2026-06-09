@@ -1,30 +1,24 @@
 # A2Z DSA — Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue?style=flat-square)
-![Topics](https://img.shields.io/badge/topics-15-orange?style=flat-square)
+![Problems](https://img.shields.io/badge/solved-142-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 
 A structured collection of Data Structures and Algorithms solutions in C++, organised by topic. Problems sourced from LeetCode, HackerRank, and CodeChef.
 
 ## Topics
 
-| Topic | Files |
+| Topic | Solved |
 |---|---|
-| Arrays | ✅ |
-| BinarySearch | ✅ |
-| BitManipulation | ✅ |
-| DynamicProgramming | ✅ |
-| Graphs | ✅ |
-| Greedy | ✅ |
-| Hashing | ✅ |
-| Heap | ✅ |
-| LinkedLists | ✅ |
-| Math | ✅ |
-| Patterns | ✅ |
-| Recursion | ✅ |
-| Sorting | ✅ |
-| StackQueue | ✅ |
-| Strings | ✅ |
+| Arrays | 81 |
+| BinarySearch | 10 |
+| Patterns | 19 |
+| Recursion | 8 |
+| Math | 7 |
+| Hashing | 6 |
+| Sorting | 6 |
+| Strings | 3 |
+| StackQueue | 2 |
 
 ## Notes
 
